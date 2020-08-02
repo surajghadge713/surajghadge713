@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://github.com/surajghadge713/surajghadge713/blob/master/0.mp4" width="50%">]
-
+![](https://github.com/surajghadge713/surajghadge713/blob/master/0.mp4)
 
 <!--
 **surajghadge713/surajghadge713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
