@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/surajghadge713/surajghadge713/blob/master/0.mp4)
+![](https://github.com/surajghadge713/surajghadge713/blob/master/ezgif.com-add-text.gif)
 
 <!--
 **surajghadge713/surajghadge713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
