@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Folks 👋
+
+I am professionally native android application developer and worked on numerous of Android Application and other technologies. i love to work on latest and trending technologies like beacon, augmented reality, etc.
+
+## Some reality about me.
 
 ![](https://github.com/surajghadge713/surajghadge713/blob/master/ezgif.com-add-text.gif)
 
