@@ -2,7 +2,7 @@
 
 I am professionally native android application developer and worked on numerous of Android Application and other technologies. i love to work on latest and trending technologies like beacon, augmented reality, etc.
 
-## Some reality about me.
+## Some reality about me. :pout: :pout: :pout: 
 
 ![](https://github.com/surajghadge713/surajghadge713/blob/master/ezgif.com-add-text.gif)
 
